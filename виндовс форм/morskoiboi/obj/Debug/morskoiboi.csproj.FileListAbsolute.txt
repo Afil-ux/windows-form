@@ -1,0 +1,10 @@
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\bin\Debug\morskoiboi.exe.config
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\bin\Debug\morskoiboi.exe
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\bin\Debug\morskoiboi.pdb
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.csproj.AssemblyReference.cache
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.Form1.resources
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.Properties.Resources.resources
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.csproj.GenerateResource.cache
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.csproj.CoreCompileInputs.cache
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.exe
+C:\Users\Ученик_1\source\repos\morskoiboi\morskoiboi\obj\Debug\morskoiboi.pdb
